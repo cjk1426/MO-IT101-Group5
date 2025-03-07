@@ -101,8 +101,9 @@ public class GrossSalaryPerWeek {
            br.close();
      
            
-           // Get the hourly rate
+       // Get the hourly rate of the employee
        // String currentPath = System.getProperty("user.dir");
+       
         String csvFileEmpD = System.getProperty("user.dir") + File.separator + "resources\\EmployeeDetails.csv"; // Build the file path
         String linedata;
       //  String delimiter = "\\|"; // Comma delimiter used in the CSV file     
