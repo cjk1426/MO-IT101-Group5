@@ -17,6 +17,7 @@ public class GrossSalaryPerWeek_NEW {
 //        int weekNumber = 10;  // Example week number
 //        String employeeNumber = "E001";  // Example employee number
 //        calculateGrossSalary(weekNumber, employeeNumber);
+    
 //    }
 
     public static void calculateGrossSalary(int weekNumber, String employeeNumber) throws IOException {
