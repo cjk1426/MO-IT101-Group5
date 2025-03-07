@@ -88,8 +88,10 @@ public class GrossSalaryPerWeek {
             }
         }
      
+        
+        
 
-        // Print the selected employee IDs
+        // Print the selected employee ID's
         System.out.println("Select from the employee IDs: " + employeeIDs); 
         
         System.out.print("Enter EmployeeID: ");
